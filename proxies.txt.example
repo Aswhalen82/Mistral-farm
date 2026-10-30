@@ -1,0 +1,15 @@
+# Satu proxy per baris. Format yang didukung:
+#   ip                      (port default 3129)
+#   ip:port
+#   ip:port:user:pass
+#   http://user:pass@ip:port
+#   socks5://user:pass@ip:port
+#
+# Kalau pakai format ip / ip:port tapi butuh auth, set env:
+#   export PROXY_USER=xxx
+#   export PROXY_PASS=yyy
+#
+# IP di bawah cuma placeholder dokumentasi (RFC 5737) — ganti punya lo sendiri.
+# 198.51.100.10
+# 203.0.113.25:3129
+# 192.0.2.44:8000:user:pass
