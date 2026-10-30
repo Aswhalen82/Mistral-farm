@@ -1,7 +1,7 @@
 # Mistral AI Farmer → 9Router
 
 Farmer akun Mistral AI **pure HTTP, tanpa browser**, pakai inbox `tempmail.lol`,
-lalu otomatis bikin API key dan inject ke **9Router / ShinanoRouter**.
+lalu otomatis bikin API key dan inject ke **9Router.
 
 1 akun ≈ 40–90 detik (mayoritas nunggu OTP). Sukses rate 95–100% kalau proxy sehat.
 
